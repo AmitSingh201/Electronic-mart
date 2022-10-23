@@ -1,0 +1,2 @@
+module Amits_Mart {
+}
